@@ -1,0 +1,47 @@
+[17-Apr-2017 20:36:51 UTC] PHP Fatal error:  Call to undefined function mysli_query() in /home/housingbubble/public_html/action/recommend.php on line 151
+[17-Apr-2017 20:37:03 UTC] PHP Fatal error:  Call to undefined function mysli_query() in /home/housingbubble/public_html/action/recommend.php on line 151
+[17-Apr-2017 20:37:25 UTC] PHP Fatal error:  Call to undefined function mysli_query() in /home/housingbubble/public_html/action/recommend.php on line 151
+[17-Apr-2017 20:38:46 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 155
+[17-Apr-2017 20:41:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 155
+[17-Apr-2017 20:44:04 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 155
+[17-Apr-2017 20:45:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 155
+[17-Apr-2017 20:46:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 157
+[17-Apr-2017 20:46:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/housingbubble/public_html/action/recommend.php on line 157
+[19-Apr-2017 07:05:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[19-Apr-2017 07:05:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:07:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[19-Apr-2017 07:07:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:09:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[19-Apr-2017 07:09:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:12:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:13:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:13:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:15:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[19-Apr-2017 07:15:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[19-Apr-2017 07:15:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[23-Apr-2017 03:13:39 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Apr-2017 03:14:01 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[23-Apr-2017 03:14:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library '/opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so' - /opt/cpanel/ea-php56/root/usr/lib64/php/modules/imagick.so: cannot open shared object file: No such file or directory in Unknown on line 0
+[24-Apr-2017 00:36:22 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:20:45 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:20:55 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:21:19 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:25:34 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:25:46 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 01:25:51 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:24:24 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:24:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[24-Apr-2017 02:24:39 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:24:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[24-Apr-2017 02:24:55 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:24:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[24-Apr-2017 02:24:59 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:24:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4
+[24-Apr-2017 02:25:10 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:25:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/update_profile.php on line 5
+[24-Apr-2017 02:26:10 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:26:30 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:26:42 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:27:03 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:36:20 UTC] PHP Warning:  Module 'imagick' already loaded in Unknown on line 0
+[24-Apr-2017 02:36:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/housingbubble/public_html/action/show_profile.php on line 4

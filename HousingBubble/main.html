@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset= 'utf-8'>
+</head>
+<body>
+  	<div align=center>
+        <h1> Housing Bubble </h1>
+        <h2> CS411 </h2>
+        <h3> Initial Demo </h3>
+  	</div>
+    <div align=right>
+    		Welcome! abc<br>
+    </div>
+    <div align=center>
+        <form action='/action/show_profile.php' method='POST' enctype='multipart/form-data'>
+            <input type = "submit" value = "User's Profile">
+            <select hidden id = "username" value = "username" type = "text">
+            	<option value="abc"u></option>
+            </select>
+        </form>
+      
+        <form action='/action/show_history.php'  method='POST' enctype='multipart/form-data'>
+            <input type = "submit" value = "Search History">
+            <select hidden id = "username" value = "username" type = "text">
+            	<option value="abc"u></option>
+            </select>
+        </form>
+    </div>
+  	<div align=center>
+    <form action="/action/search.php" method="POST" target="_blank">
+        <label for="Area_Low">Area lower bound?</label>
+            <input type="text" name="Area_Low"><br>
+        
+        <label for="Area_High">Area higher bound?</label>
+            <input type="text" name="Area_High"><br>
+        
+        <label for="Parking">Parking required?</label>
+        <select id="Parking" label="Parking" name="Parking">
+            <option value="None">Unspecified</option>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+        
+        <label for="Dryer">In-unit dryer?</label>
+        <select id="Dryer" label="Dryer" name="Dryer">
+            <option value="None">Unspecified</option>
+            <option value="1">Yes</option>
+            <option value="0">No</option>
+        </select><br>
+        
+        <label for="Price_High">Price upper bound?</label>
+            <input type="text" name="Price_High"><br>
+        
+        <label for="Price_Low">Price lower bound?</label>
+            <input type="text" name="Price_Low"><br>
+
+        <label for="Bathroom">Num of Bathroom?</label>
+        <select id="Bathroom" label="Bathroom" name="Bathroom">
+            <option value="None">Unspecified</option>
+            <option value="1">1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+        </select><br>
+
+        <label for="Bedroom">Num of Bedroom?</label>
+        <select id="Bedroom" label="Bedroom" name="Bedroom">
+            <option value="None">Unspecified</option>
+          	<option value="0">0+</option>
+            <option value="1">1+</option>
+            <option value="2">2+</option>
+            <option value="3">3+</option>
+            <option value="4">4+</option>
+        </select><br>
+        <select hidden id = "username" value = "username" type = "text">
+          <option value="abc"></option>
+        </select>
+        <input type = "submit" value = "Submit">
+    </form>
+    </div>
+</body>
+</html>
